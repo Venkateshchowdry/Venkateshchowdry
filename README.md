@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Venkateshchowdry
-- 👀 I’m interested in AWS Solution architect role
-- 🌱 I’m currently learning SAA AWS
-- 💞️ I’m looking to collaborate on projects on AWS
-- 📫 How to reach me venkateshchowdary1@outlook.com
+- Hi there 👋 
+- I’m Venkatesh Chowdary, Cloud/DevOps Engineer, Passionate about Automating and Optimizing mission Critical Deployments on Cloud and Dev-Ops Process, leveraging Configuration Management and Infrastructure building
+
+- I’m looking to collaborate with tech StartUps 💞
+- 
+- reach me @ venkateshchowdary1@outlook.com
 
 <!---
 Venkateshchowdry/Venkateshchowdry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
